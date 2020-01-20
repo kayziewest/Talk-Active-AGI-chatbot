@@ -1,0 +1,2 @@
+# Talk-Active-AGI-chatbot
+This Chatbot is an Artificial General Intelligence project  aimed at being a perfect conversationalist , like if you need  a bot to intelligently reply all real time messages for you while you are idle ,it can also  offer customer support or help people with therapy ....  Talkactive  chatbot Talk-active is trained with sample data sets of previous conversations of thousands of random users on social media, the model have been trained to process language and understand the topic of discussion and also reply with a human like answer
